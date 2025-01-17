@@ -46,7 +46,8 @@ Go to VS Code
 ![image](https://github.com/user-attachments/assets/a8833974-e6bf-47af-8b55-b81546707006)
 
 
-
+# For making a better website you can see this repository:
+https://github.com/Sanyuktaspeaks1/Copy-Paste-Edit-this-template-to-create-your-website/blob/main/README.md
 
 
 
